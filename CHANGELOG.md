@@ -1,6 +1,6 @@
 # Changelog
 
-### v17.0.0 - TBA
+### v17.0.0 - 2025-02-28
 
 - Support for Laravel 12
 
