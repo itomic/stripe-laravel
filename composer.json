@@ -1,6 +1,6 @@
 {
-    "name": "cartalyst/stripe-laravel",
-    "description": "Laravel 11 integration for the Cartalyst Stripe package.",
+    "name": "itomic/stripe-laravel",
+    "description": "Laravel 11 integration for the Cartalyst Stripe package fork becuase they are done doing dev.",
     "keywords": [
         "php",
         "cartalyst",
